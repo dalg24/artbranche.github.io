@@ -39,7 +39,7 @@ sur les secteur de Bordeaux et Libourne.
 
 .. _contact:
 
-Mes coordonées
+Mes coordonnées
 --------------
 
 +---------+------------------------------+
